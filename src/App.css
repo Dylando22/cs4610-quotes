@@ -73,7 +73,9 @@
 
 .quote-container {
   background-color: rgb(20, 104, 248);
-  margin: 15px;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
   padding: 5px;
   width: 90%;
   border-radius: 5px;
