@@ -31,7 +31,7 @@
   height: fit-content;
   justify-content: center;
   align-items: center;
-  background-color: darkblue;
+  background-color: #333333;
   border-radius: 15px;
   box-shadow: 50px;
   margin: auto;
@@ -51,14 +51,13 @@
   display: block;
 }
 .search-bar {
-  background-color: rgb(51, 175, 252);
+  background-color: #242424;
   border-radius: 5px;
   display: flex;
   justify-content: space-around;
   width: 90%;
   padding:10px;
   margin-bottom: 10px;
-  margin-top: 10px;
 }
 
 .search-btn {
@@ -77,7 +76,8 @@
 }
 
 .quote-container {
-  background-color: rgb(20, 104, 248);
+  background-color: #111111;
+
   margin: auto;
   margin-top: 15px;
   margin-bottom: 15px;
